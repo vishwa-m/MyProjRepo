@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <bookstore>
-<book category="COOKING">
+<book category="COOKING-ONE">
   <title lang="en">Everyday Italian</title>
   <price>30.00</price>
 </book>
