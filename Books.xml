@@ -4,4 +4,8 @@
   <title lang="en">Everyday Italian</title>
   <price>30.00</price>
 </book>
+<book category="MECHANIC-TWO">
+  <title lang="en">FirstChoice</title>
+  <price>55.00</price>
+</book>
 </bookstore>
