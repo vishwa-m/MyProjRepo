@@ -9,3 +9,8 @@
   <price>25.00</price>
 </book>
 </bookstore>
+<book category="MECHANIC-THREE">
+  <title lang="en">FirstChoice</title>
+  <price>55.00</price>
+</book>
+</bookstore>
